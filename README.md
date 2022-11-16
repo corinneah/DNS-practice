@@ -7,6 +7,7 @@ The name of your purchased domain
 
 A copy of the 'A' record settings that you needed to write (name, value, TTL) 
 - name: @ 
+- value: 35.238.139.96
 - TTL: 7200
 
 The cloud vendor you selected: 
